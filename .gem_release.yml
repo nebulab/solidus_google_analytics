@@ -1,0 +1,5 @@
+bump:
+  recurse: false
+  file: 'lib/solidus_google_analytics/version.rb'
+  message: Bump SolidusGoogleAnalytics to %{version}
+  branch: true
